@@ -15,3 +15,29 @@ img{
 .clickable:hover {
   text-decoration: underline;
 }
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+.darkfont {
+  color: white;
+}
+.dark-background {
+  background-color: black;
+}
+
+#light {
+  display: none;
+}
+
+#dark {
+  background-color: black;
+  color:white;
+}
